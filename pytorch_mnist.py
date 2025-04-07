@@ -8,7 +8,7 @@ from torchvision import datasets, transforms
 from torch.optim.lr_scheduler import StepLR
 import pandas as pd
 
-
+# vs code에서 파일 수정해서 깃허브 커밋해보기
 data = {
     '이름': ['이하영'],
     '학번': [2314323],
